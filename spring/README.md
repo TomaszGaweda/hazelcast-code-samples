@@ -18,3 +18,7 @@
 	Spring Boot style HTTP session replication, using embedded web container in standalone Jar.    
 - <h3>spring-session-servlet</h3>
 	Hazelcast Spring Session example without the usage of Spring Boot, only pure Servlets.
+- <h3>spring-boot-session-replication-spring-session-hazelcast</h3>
+	Session replication using Hazelcast Spring Session and Spring Boot
+- <h3>spring-boot-embedded</h3>
+	Example of using Spring Boot as a standalone application.
